@@ -11,6 +11,6 @@ Trabajo como FullStack y Flutter developer 💻🤓.
 
 
 Puedes encontrarme en todas estas redes 👇🏻👌🏻
-<br/> [![YouTube](https://raw.githubusercontent.com/manudevcode/manudevcode/master/youtube.png =30)](https://www.youtube.com/c/ManuCodes) Deja tu like
-<br/> [![Instagram](https://raw.githubusercontent.com/manudevcode/manudevcode/master/instagram.png =30)](https://www.instagram.com/manu.codes/) Sígueme
-<br/> [![Facebook](https://raw.githubusercontent.com/manudevcode/manudevcode/master/facebook.png =30)](https://www.facebook.com/manucodes/) Suscríbete
+<br/> [![YouTube](https://raw.githubusercontent.com/manudevcode/manudevcode/master/youtube.png)](https://www.youtube.com/c/ManuCodes) Deja tu like
+<br/> [![Instagram](https://raw.githubusercontent.com/manudevcode/manudevcode/master/instagram.png)](https://www.instagram.com/manu.codes/) Sígueme
+<br/> [![Facebook](https://raw.githubusercontent.com/manudevcode/manudevcode/master/facebook.png)](https://www.facebook.com/manucodes/) Suscríbete
