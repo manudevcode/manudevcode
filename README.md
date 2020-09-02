@@ -9,6 +9,8 @@ Trabajo como FullStack y Flutter developer 💻🤓.
 - 📖 &nbsp; Estoy aprendiendo: `Containers, Microservices with AWS, Data Science, Python`
 - 🤝 &nbsp; Si necesitas ayuda en un proyecto cuenta conmigo.
 
+[![Manu's github stats](https://github-readme-stats.vercel.app/api?username=manudevcode&count_private=true&theme=buefy&show_icons=true)](https://github.com/manudevcode)
+</br>
 
 Puedes encontrarme en todas estas redes 👇🏻👌🏻
 <br/> [![YouTube](https://raw.githubusercontent.com/manudevcode/manudevcode/master/youtube.png)](https://www.youtube.com/c/ManuCodes) Deja tu like
