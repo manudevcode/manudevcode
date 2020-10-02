@@ -7,7 +7,7 @@ Trabajo como FullStack y Flutter developer 💻🤓.
 
 - 👨🏽‍💻 &nbsp; Puedes preguntarme sobre: `MongoDB, JavaScript, Firebase, React, Flutter, NodeJS, Java`.
 - 📖 &nbsp; Estoy aprendiendo: `Containers, Microservices with AWS, Data Science, Python`
-- 🤝 &nbsp; Si necesitas ayuda en un proyecto cuenta conmigo.
+- 🤝 &nbsp; Si necesitas ayuda en un proyecto checa el apartado de sponsors estoy para ayudar.
 
 [![Manu's github stats](https://github-readme-stats.vercel.app/api?username=manudevcode&count_private=true&theme=buefy&show_icons=true)](https://github.com/manudevcode)
 </br>
