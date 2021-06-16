@@ -1,4 +1,4 @@
-### Hola a todos 👋 [![HitCount](http://hits.dwyl.com/manudevcode/manudevcode.svg)](http://hits.dwyl.com/manudevcode/manudevcode)
+### Hola a todos 👋 [![HitCount](https://komarev.com/ghpvc/?username=manudevcode&label=hits&color=60dae2&style=flat)](https://github.com/manudevcode)
 
 
 Este es el corazón de todo lo que sé y me gusta compartir con cada persona que llega aquí, siempre al tanto de las nuevas tecnologías, aprendiendo y enseñando con ejercicios prácticos a través de mi canal en YouTube y Facebook, me apasiona lo que hago, si tienes preguntas de cualquier tema mándame un mensaje en cualquiera de mis redes ten por seguro que si no sé como solucionar tu problema de ayudaré a buscar la solución.  
