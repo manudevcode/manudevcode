@@ -6,7 +6,7 @@ This is the heart of everything that I know and I like to share with each person
 I work as a Full Stack Developer 💻🤓.
 
 - 👨🏽‍💻 &nbsp; You can ask me about: `MongoDB, JavaScript, Firebase, React, Flutter, NodeJS, TypeScript`.
-- 📖 &nbsp; I'm learnig: `English 🏴󠁧󠁢󠁥󠁮󠁧󠁿  and Italian 🇮🇹,  Containers 🐳, Microservices with AWS 🌪️ <- it's a cloud, Python 🐍`
+- 📖 &nbsp; I'm learnig: `English 🏴󠁧󠁢󠁥󠁮󠁧󠁿,  Containers 🐳, Microservices with AWS 🌪️ <- it's a cloud, Go Lang`
 - 🤝 &nbsp; If you need help in a project check the sponsors section I am here to help (only in spanish :'(). 
 
 [![Manu's github stats](https://github-readme-stats.vercel.app/api?username=manudevcode&count_private=true&show_icons=true&bg_color=22272E&text_color=FFFFFF&title_color=e520ff&hide_border=true)](https://github.com/manudevcode)
